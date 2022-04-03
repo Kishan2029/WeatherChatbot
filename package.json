@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "brew": "^0.0.8",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "ngrok": "^4.3.1",
+    "nodeman": "^1.1.2",
+    "request": "^2.88.2"
+  },
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

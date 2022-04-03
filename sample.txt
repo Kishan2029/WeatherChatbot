@@ -1,0 +1,8 @@
+5 days/3 hour
+api.openweathermap.org/data/2.5/forecast?q=mumbai&appid=a7a7466a61f208c4bb35bed785bd441d
+
+"http://api.openweathermap.org/data/ 2.5/forecast?q=" + city + "&apikey=a7a7466a61f208c4bb35bed785bd441d",
+
+Daily forecast upto 16 days
+api.openweathermap.org/data/2.5/forecast/daily?q=mumbai&cnt=5&appid=de4baeb2679a7bdb79a208637bd2de01
+api.openweathermap.org/data/2.5/forecast/daily?q=mumbai&appid=de4baeb2679a7bdb79a208637bd2de01
