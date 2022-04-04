@@ -6,3 +6,7 @@ api.openweathermap.org/data/2.5/forecast?q=mumbai&appid=a7a7466a61f208c4bb35bed7
 Daily forecast upto 16 days
 api.openweathermap.org/data/2.5/forecast/daily?q=mumbai&cnt=5&appid=de4baeb2679a7bdb79a208637bd2de01
 api.openweathermap.org/data/2.5/forecast/daily?q=mumbai&appid=de4baeb2679a7bdb79a208637bd2de01
+
+Commands
+ngrok http portno(3333)
+turn on node app.js
